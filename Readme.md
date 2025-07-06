@@ -1,7 +1,8 @@
-Description
+# Description
+
 ADO.NET was chosen to interact with MS SQL Server database for the better performance in bulk import. The SqlBulkCopy() method is highly optimized to insert large amount of data efficiently
 
-Executing program
+# Executing program
 
 1. Create the database and table
    create database PostDb;
